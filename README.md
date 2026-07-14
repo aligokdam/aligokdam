@@ -46,5 +46,4 @@ Portfolio
 https://linktr.ee/aligokdam
 
 Instagram  
-https://instagram.com/aligokdam<!--
-**aligokdam/aligokdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://instagram.com/aligokdam
