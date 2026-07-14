@@ -17,7 +17,7 @@
 <animate attributeName="width" values="0;0;106.3;106.3;0;0" keyTimes="0;0.3352;0.3554;0.9673;0.9988;1" dur="24.46s" repeatCount="indefinite"/>
 </rect></clipPath><text x="407.7" y="68.0" fill="#7dd3fc" font-weight="bold" clip-path="url(#clipL0)">SYSTEM.INFO</text><clipPath id="clipK2"><rect x="405.7" y="100.0" width="0" height="20">
 <animate attributeName="width" values="0;0;221.0;221.0;0;0" keyTimes="0;0.3579;0.3801;0.9673;0.9988;1" dur="24.46s" repeatCount="indefinite"/>
-</rect></clipPath><g clip-path="url(#clipK2)"><text x="407.7" y="114.0" fill="#a39cb5">- Subject</text><text x="525.7" y="114.0" fill="#ffffff" font-weight="600">Ali Gokdam</text></g><clipPath id="clipK3"><rect x="405.7" y="123.0" width="0" height="20">
+</rect></clipPath><g clip-path="url(#clipK2)"><text x="407.7" y="114.0" fill="#a39cb5">- Subject</text><text x="525.7" y="114.0" fill="#ffffff" font-weight="600">Ali Gökdam</text></g><clipPath id="clipK3"><rect x="405.7" y="123.0" width="0" height="20">
 <animate attributeName="width" values="0;0;425.6;425.6;0;0" keyTimes="0;0.3826;0.4297;0.9673;0.9988;1" dur="24.46s" repeatCount="indefinite"/>
 </rect></clipPath><g clip-path="url(#clipK3)"><text x="407.7" y="137.0" fill="#a39cb5">- Role</text><text x="525.7" y="137.0" fill="#ffffff" font-weight="600">Painter / Illustrator / Animator</text></g><clipPath id="clipK4"><rect x="405.7" y="146.0" width="0" height="20">
 <animate attributeName="width" values="0;0;388.4;388.4;0;0" keyTimes="0;0.4321;0.4753;0.9673;0.9988;1" dur="24.46s" repeatCount="indefinite"/>
