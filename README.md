@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="terminal/terminal-header-.svg" width="100%" alt="Ali Gökdam Terminal">
+</div>
+
 # Hey, I'm Ali Gökdam. 👋
 
 Professional Painter • Illustrator • Animator • Product Designer
