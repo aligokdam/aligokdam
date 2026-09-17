@@ -26,14 +26,6 @@ https://aligokdam.github.io/c-ids.github.io/#demo
 
 ---
 
-## About Me
-
-Learn more about my background, creative process, and product design journey →
-
-https://github.com/aligokdam/about
-
----
-
 ## Currently Exploring
 
 - Product Design
