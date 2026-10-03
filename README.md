@@ -12,11 +12,17 @@ I design creative digital products where art, interaction, and technology work t
 
 ## Featured Projects
 
-### 🎨 Cutout Effect Studio
+### <img src="https://aligokdam.github.io/cutout.github.io/assets/icon.svg" alt="Cutout Effect Studio logo" width="28" height="28" align="center"> Cutout Effect Studio
 Creative image processing tool.
 
 🌐 Live Demo  
 https://aligokdam.github.io/cutout.github.io/
+
+### ✏️ Giotto Sketch Studio
+Camera-based reference tracing tool for artists.
+
+🌐 Live Demo  
+https://aligokdam.github.io/giotto.sketch.studio/
 
 ### 🛡️ C-IDS
 Cross-platform intrusion detection system.
