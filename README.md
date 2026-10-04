@@ -18,7 +18,7 @@ Creative image processing tool.
 🌐 Live Demo  
 https://aligokdam.github.io/cutout.github.io/
 
-### ✏️ Giotto Sketch Studio
+### <img src="https://aligokdam.github.io/giotto.sketch.studio/assets/icons/icon.svg" alt="Giotto Sketch Studio logo" width="28" height="28" align="center"> Giotto Sketch Studio
 Camera-based reference tracing tool for artists.
 
 🌐 Live Demo  
