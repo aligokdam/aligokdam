@@ -36,6 +36,12 @@ Local-first video and photo editor that runs in the browser.
 🌐 Live Demo  
 https://aligokdam.github.io/multi.media.studio/
 
+### <img src="https://aligokdam.github.io/frame.capture.studio/assets/icon.svg" alt="Frame Capture Studio logo" width="28" height="28" align="center"> Frame Capture Studio
+Full-resolution frame extraction tool for videos, right in the browser.
+
+🌐 Live Demo  
+https://aligokdam.github.io/frame.capture.studio/
+
 ---
 
 ## Currently Exploring
