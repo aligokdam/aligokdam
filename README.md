@@ -30,6 +30,11 @@ Cross-platform intrusion detection system.
 🌐 Live Demo  
 https://aligokdam.github.io/c-ids.github.io/#demo
 
+<img src="https://aligokdam.github.io/multi.media.studio/mms/assets/icons/logo.svg" alt="Multi Media Studio logo" width="28" height="28" align="center"> Multi Media Studio
+Local-first video and photo editor that runs in the browser.
+🌐 Live Demo
+https://aligokdam.github.io/multi.media.studio/
+
 ---
 
 ## Currently Exploring
